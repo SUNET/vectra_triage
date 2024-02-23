@@ -186,14 +186,15 @@ six==1.16.0 \
     #   cabby
     #   furl
     #   libtaxii
+    #   orderedmultidict
     #   python-dateutil
 stix==1.2.0.11 \
     --hash=sha256:a3825e34781d491ac3526111f053db85a2be4549e0c8ce56e05e5eeb5f495e53 \
     --hash=sha256:b23a1ca70227e17f42cd0a9f109737f321175f6fe97be5cb24fd4d189dbb1601
     # via vectra-api-tools
-urllib3==1.26.7 \
-    --hash=sha256:4987c65554f7a2dbf30c18fd48778ef124af6fab771a377103da0585e2336ece \
-    --hash=sha256:c4fdf4019605b6e5423637e01bc9fe4daef873709a7973e195ceba0a62bbc844
+urllib3==1.26.18 \
+    --hash=sha256:34b97092d7e0a3a8cf7cd10e386f401b3737364026c45e622aa02903dffe0f07 \
+    --hash=sha256:f8ecc1bba5667413457c529ab955bf8c67b45db799d159066261719e328580a0
     # via requests
 vectra-api-tools==2.2rc0 \
     --hash=sha256:2bc86450deee8713a30458217d3adeacd52244bed7084ab83ac14da753757f8d \
