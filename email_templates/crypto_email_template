@@ -1,0 +1,26 @@
+Hej!
+Vi har identifierat en enhet som troligen är infekterad med en miner
+enligt nedan.
+
+SSR
+
+Sakriktighet: Sannolikt riktig
+Grund för bedömning av sakriktighet:
+Den här kategorin larm i Vectra har vid manuellt hantering av ett större
+antal larm över en längre tid alltid visat sig korrekta. Just nu sker
+dock ingen ytterligare kontroll av larmen och sakriktigheten kan därför
+inte anges som högre än sannolikt riktig.
+
+Information om dessa larm:
+Dessa larm genereras automatiskt baserat på de kategorier av larm,
+signaturer, IOC:er etc som vi har manuellt hanterat för att skapa
+oss en god förståelse för i vilken utsträckning de är korrekta,
+alternativt utförligt analyserat för att säkerställa sakriktigheten.
+
+Sakriktighet anges enligt följande skala:
+  Bekräftad
+  Sannolikt riktig
+  Möjligen riktig
+  Tvivelaktig
+  Osannolik
+  Sakriktigheten kan ej bedömas

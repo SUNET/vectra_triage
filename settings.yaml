@@ -1,0 +1,8 @@
+url: https://example.com
+token: your_token
+smtp_server: smtp.example.com:587
+smtp_user: user
+smtp_password: password
+
+customers:
+  IP-RANGE-EXAMPLE: abuse@example.com
